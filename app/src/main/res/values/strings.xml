@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pattern builder</string>
+
+    <string name="next">Далее</string>
+    <string name="result">Результат</string>
+    <string name="name_device">Введите имя производителя и модель устройства:</string>
+    <string name="type_device">Тип устройства:</string>
+    <string name="change_color">Нажмите, чтобы сменить цвет.</string>
+
+    <array name="type">
+        <item>Смартфон</item>
+        <item>Планшет</item>
+        <item>Телевизор</item>
+        <item>Часы</item>
+    </array>
+</resources>
